@@ -53,6 +53,7 @@ export const PERSONAL_INFO = {
   status: "Available for select freelance & full-time roles",
   location: "Dhaka, Bangladesh (UTC+6) • Global Remote",
   email: "brbappi090@gmail.com",
+  avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format&fit=crop&q=80",
   github: "https://github.com",
   linkedin: "https://linkedin.com",
   twitter: "https://x.com",
